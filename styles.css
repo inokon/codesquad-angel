@@ -1,5 +1,12 @@
 
 body {
-  background-color: #408838;
+  background-color: #ffffff;
 
+}
+
+nav ul li a {
+  list-style: none;
+  text-decoration: none;
+  padding: 0;
+  color: #fff;
 }
